@@ -1,2 +1,2 @@
-# genome_note_analyses
+# Genome note analyses
 Here I share my code for running TETools, building a map to display species distributions, and creating plots
